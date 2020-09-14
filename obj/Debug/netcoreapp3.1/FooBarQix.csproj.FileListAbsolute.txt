@@ -1,0 +1,13 @@
+C:\TFS\FooBarQix\bin\Debug\netcoreapp3.1\FooBarQix.exe
+C:\TFS\FooBarQix\bin\Debug\netcoreapp3.1\FooBarQix.deps.json
+C:\TFS\FooBarQix\bin\Debug\netcoreapp3.1\FooBarQix.runtimeconfig.json
+C:\TFS\FooBarQix\bin\Debug\netcoreapp3.1\FooBarQix.runtimeconfig.dev.json
+C:\TFS\FooBarQix\bin\Debug\netcoreapp3.1\FooBarQix.dll
+C:\TFS\FooBarQix\bin\Debug\netcoreapp3.1\FooBarQix.pdb
+C:\TFS\FooBarQix\obj\Debug\netcoreapp3.1\FooBarQix.csprojAssemblyReference.cache
+C:\TFS\FooBarQix\obj\Debug\netcoreapp3.1\FooBarQix.AssemblyInfoInputs.cache
+C:\TFS\FooBarQix\obj\Debug\netcoreapp3.1\FooBarQix.AssemblyInfo.cs
+C:\TFS\FooBarQix\obj\Debug\netcoreapp3.1\FooBarQix.csproj.CoreCompileInputs.cache
+C:\TFS\FooBarQix\obj\Debug\netcoreapp3.1\FooBarQix.dll
+C:\TFS\FooBarQix\obj\Debug\netcoreapp3.1\FooBarQix.pdb
+C:\TFS\FooBarQix\obj\Debug\netcoreapp3.1\FooBarQix.genruntimeconfig.cache
